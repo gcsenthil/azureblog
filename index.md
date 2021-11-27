@@ -1,10 +1,7 @@
 ## Graphql integrate with Azure function
 
 ### What is Graphql?
-
-You can use the [editor on GitHub](https://github.com/gcsenthil/azureblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Graphql is a query language for APIs and a runtime fulfilling those queries with you existing data. Give clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools. [More](https://graphql.org/)
 
 ### Markdown
 
